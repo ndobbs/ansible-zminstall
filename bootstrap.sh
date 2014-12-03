@@ -22,6 +22,6 @@ fi
 export PATH=/usr/local/bin:$PATH
 
 # Clone the remote ansible-role-zoneminder repo
-git clone https://github.com/ndobbs/ansible-role-zoneminder.git ./roles
+git clone https://github.com/ndobbs/ansible-role-zoneminder.git ./roles/zoneminder
 # Remove remote origin
 git remote rm origin
