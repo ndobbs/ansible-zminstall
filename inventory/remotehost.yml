@@ -1,0 +1,4 @@
+# Use this file if you want to configure a remote node to run zoneminder
+#
+[zoneminder_server]
+10.90.10.148

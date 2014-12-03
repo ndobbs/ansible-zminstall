@@ -1,0 +1,5 @@
+# Use this file if you want to configure the local machine to run zoneminder
+# Note, local means the machine you are running this playbook on
+
+[zoneminder_server]
+localhost
